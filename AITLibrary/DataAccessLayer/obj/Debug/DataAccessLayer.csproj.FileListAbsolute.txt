@@ -1,0 +1,7 @@
+C:\Users\utsav\source\repos\AITLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\utsav\source\repos\AITLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\utsav\source\repos\AITLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\utsav\source\repos\AITLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\utsav\source\repos\AITLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\utsav\source\repos\AITLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\utsav\source\repos\AITLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
